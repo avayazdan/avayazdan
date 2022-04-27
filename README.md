@@ -2,7 +2,7 @@
 
 ## I'm ✨ Ava ✨ a software engineer from London, UK. 
 ### 𝕄𝕪 𝕞𝕚𝕤𝕤𝕚𝕠𝕟 𝕚𝕤 𝕥𝕠 𝕓𝕦𝕚𝕝𝕕 𝕒𝕨𝕖𝕤𝕠𝕞𝕖 𝕥𝕙𝕚𝕟𝕘𝕤 𝕨𝕚𝕥𝕙 𝕔𝕠𝕕𝕖, 𝕝𝕖𝕒𝕣𝕟 𝕒𝕤 𝕞𝕦𝕔𝕙 𝕒𝕓𝕠𝕦𝕥 𝕥𝕖𝕔𝕙 𝕒𝕤 𝕀 𝕔𝕒𝕟, 𝕒𝕟𝕕 𝕔𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖 𝕞𝕪𝕤𝕖𝕝𝕗 𝕚𝕟 𝕟𝕖𝕨 𝕨𝕒𝕪𝕤.
-##### I come from a pure creative background but I've always loved technology. Throughout my life, I have had success in many creative areas such as music and writing, and they are still skills I continue to grow to this day. Over the past few years, since my graduation, to make ends meet, I taught English to foreign speakers online (I love languages, and speak 4!). However, one day I woke up, and decided I wanted to make a change in the direction of my life, and aim for something higher. Something more challenging. And thus my journey into tech began...
+##### I come from a pure creative background but I've always loved technology. Throughout my life, I have had success in many creative areas such as music and writing, and they are skills that I still continue to work on to this day. Over the past few years, since my graduation, to make ends meet, I taught English to foreign speakers online (I love languages, and speak 4!). However, one day I woke up, and decided I wanted to make a change in the direction of my life, and aim for something higher. Something more challenging. And thus my journey into tech began...
 
 
 
