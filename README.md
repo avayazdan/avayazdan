@@ -34,5 +34,5 @@ To learn more about my creative endevours such as my music or writing, please ge
   
   
   <p align="center">
-  <img src="http://49.media.tumblr.com/f8b3e35c0ff7667a246a936b6ed5b1ed/tumblr_o15m65ukYM1u2evjjo1_500.gif=true" alt="pixel-computer"/>
+  <img src="http://49.media.tumblr.com/f8b3e35c0ff7667a246a936b6ed5b1ed/tumblr_o15m65ukYM1u2evjjo1_500.gif" alt="pixel-computer"/>
 </p>
