@@ -8,13 +8,14 @@
 ![pixel-laptop](https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif)
 
 ### 🎮 My ideal future in tech looks like...
-My first <strong>goal</strong> is to break into a junior position where I can improve my coding skills and confidence as a programmer. I want to improve and practice my skills and learn new technologies and skills on the way. One day, I would also like to learn more about <strong>UX design</strong> as designing is one of my natural strengths and I enjoy working with markup and styling languages such as HTML5 and CSS, and would love to combine my growing skills and knowledge in software engineering with a more design-based role. I would also like to learn more about other areas of <strong>computer science</strong> such as cryptography, blockchains, machine learning, robotics, AI and so on. Working in the gaming industry as a writer or creative director would be another dream of mine in tech! 
+My first <strong>goal</strong> is to break into a <strong>junior position</strong> where I can improve my coding skills and confidence as a programmer. I want to improve and practice my skills and learn new technologies and skills on the way. One day, I would also like to learn more about <strong>UX design</strong> as designing is one of my natural strengths and I enjoy working with markup and styling languages such as <strong>HTML5 and CSS</strong>, and would love to combine my growing skills and knowledge in software engineering with a more design-based role. I would also like to learn more about other areas of <strong>computer science</strong> such as <strong>cryptography, blockchains, machine learning, robotics, AI</strong> and so on.
+(Working in the gaming industry as a writer or creative director would be another dream of mine in tech!)
 
 
 ### :cherry_blossom: Pronouns: 
 She/her
 
-### 💖: Workplace Strengths:
+### 💖 Workplace Strengths:
 - Communication
 - Design and Styling
 - Tech Savvy 
@@ -22,16 +23,16 @@ She/her
 - Ambition
 - Guiding and mentoring others
 
-### :heartpulse: Passionate about:<br></br>
-- Languages (human and computer!) :u55b6: <br></br>
--  Music :violin: <br></br>
--  Film :movie_camera: <br></br>
-- Video games :video_game: <br></br> 
-- Writing :notebook_with_decorative_cover: <br></br>
-- Self-improvement, personal growth :hibiscus: <br></br>
-- Dance & Exercise :dancer: <br></br>
-- The humanities :waning_crescent_moon: <br></br> 
-- And of-course, the wonderous world of tech! :computer: <br></br>
+### :heartpulse: Passionate about:
+- Languages (human and computer!) :u55b6: 
+-  Music :violin: 
+-  Film :movie_camera: 
+- Video games :video_game: 
+- Writing :notebook_with_decorative_cover: 
+- Self-improvement, personal growth :hibiscus: 
+- Dance & Exercise :dancer: 
+- The humanities :waning_crescent_moon: 
+- And of-course, the wonderous world of tech! :computer:
 
 To learn more about my creative endevours such as my music or writing, please get in touch!
                  
