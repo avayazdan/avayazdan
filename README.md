@@ -11,6 +11,14 @@
 
 ### :cherry_blossom: Pronouns: 
 She/her
+
+### ❤️‍🔥: Workplace Strengths:
+Communication
+Design and Styling
+Tech Savvy 
+Curious and always willing to learn
+Ambitious
+
 ### :heartpulse: Passionate about:<br></br>
 - Languages (human and computer!) :u55b6: <br></br>
 -  Music :violin: <br></br>
@@ -24,7 +32,7 @@ She/her
 
 To learn more about my creative endevours such as my music or writing, please get in touch!
                  
-                                                        https://www.linkedin.com/in/ava-yazdany/
+                                                 https://www.linkedin.com/in/ava-yazdany/
 
 
 
