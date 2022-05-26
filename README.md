@@ -7,13 +7,14 @@
 
 ![pixel-laptop](https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif)
 
-### :🎮: My ideal future in tech looks like...: 
+### :🎮: My ideal future in tech looks like...
+My first <strong>goal</strong> i
 
 
 ### :cherry_blossom: Pronouns: 
 She/her
 
-### 💖: Workplace Strengths:<br></br>
+### 💖: Workplace Strengths:
 - Communication
 - Design and Styling
 - Tech Savvy 
