@@ -7,7 +7,7 @@
 
 ![pixel-laptop](https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif)
 
-### :🎮: My ideal future in tech looks like...
+### 🎮 My ideal future in tech looks like...
 My first <strong>goal</strong> is to break into a junior position where I can improve my coding skills and confidence as a programmer. I want to improve and practice my skills and learn new technologies and skills on the way. One day, I would also like to learn more about <strong>UX design</strong> as designing is one of my natural strengths and I enjoy working with markup and styling languages such as HTML5 and CSS, and would love to combine my growing skills and knowledge in software engineering with a more design-based role. I would also like to learn more about other areas of <strong>computer science</strong> such as cryptography, blockchains, machine learning, robotics, AI and so on. Working in the gaming industry as a writer or creative director would be another dream of mine in tech! 
 
 
